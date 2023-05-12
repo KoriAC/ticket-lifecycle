@@ -54,6 +54,37 @@ This is what the end user will see after their ticket request has been submitted
 <br />
 
 <p>
+<img src="https://i.gyazo.com/8b31756058829d2ad09b72e04cb9b8ff.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This is an example of a help desk agent logging into their account.
+</p>
+<br />
+
+<p>
+<img src="https://i.gyazo.com/e1f8d03c53258fc5acb81fabc9f7736b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After logging in, this is what the agent named "Jane" would see on her screen. As you can see, these are the help topics that were added previously as an administrator.
+</p>
+<br />
+
+<p>
+<img src="https://i.gyazo.com/e481ed471767b0465064ad03287433d6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After the agent sees the ticket, they can open it and post responses like in the image you see above.
+</p>
+<br />
+
+<p>
+<img src="https://i.gyazo.com/9659be4b46cd7dfb7950eba7efdcd305.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The image above shows the previous ticket has received a response. You can tell by the chnage in the font compared to the other tickets.
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
