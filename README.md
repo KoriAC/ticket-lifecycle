@@ -85,9 +85,17 @@ The image above shows the previous ticket has received a response. You can tell 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/9a55e07d552999a1be5873a32970c5e6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After a help desk agent works on their ticket, they can post a response back to the client and can eventually change the status of the ticket.
+</p>
+<br />
+
+<p>
+<img src="https://i.gyazo.com/0da7f69a8d77cbf0cbb8219add373db5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the image above, you can see that the ticket has been moved to the "Closed" tab. Furthermore, you can see the ticket number, the date and which agent closed the ticket.
 </p>
 <br />
